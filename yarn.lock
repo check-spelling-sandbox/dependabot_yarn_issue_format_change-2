@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-jasmine-core@~4.5.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/jasmine-core/-/jasmine-core-4.5.0.tgz#1a6bd0bde3f60996164311c88a0995d67ceda7c3"
-  integrity sha512-9PMzyvhtocxb3aXJVOPqBDswdgyAeSB81QnLop4npOpbqnheaTEwPc9ZloQeVswugPManznQBjD8kWDTjlnHuw==
+jasmine-core@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/jasmine-core/-/jasmine-core-6.0.0.tgz#f2ffab41ada31f232c85e4caa3e3d53e9b73e18a"
+  integrity sha512-fmBb8aruz2mEIDBUGWOGNmxhXwFJs44SSzwbMcBDqQnNChavPTq3Ra9A6WAn6WdxvxWEdakKTcEb3NzeR3yD1A==
